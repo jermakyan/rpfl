@@ -27,7 +27,7 @@
 	  <tr><td align=right class="heading">Команда: * </td> <td align=left class="heading"> 
 	 <select size="1"  name="ins_team">
 	 <option selected value="ЦСКА">ЦСКА</option>
-<!--	 <option value="ЦСКА">ЦСКА</option>  -->
+
 	 <option value="Зенит">Зенит</option>
 	 <option value="Ростов">Ростов</option>
 	 <option value="Локомотив">Локомотив</option> 
